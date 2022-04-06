@@ -1,0 +1,23 @@
+{
+  "name": "planets_project",
+  "version": "1.0.0",
+  "description": "This project is part of a course I am taking on Node.js. The project analysis data collected from the Kepler telescope and analyzes which planets could possibly sustain human life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmlock/planets_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmlock/planets_project/issues"
+  },
+  "homepage": "https://github.com/mcmlock/planets_project#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
