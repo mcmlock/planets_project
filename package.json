@@ -19,5 +19,6 @@
   "homepage": "https://github.com/mcmlock/planets_project#readme",
   "dependencies": {
     "csv-parse": "^5.0.4"
-  }
+  },
+  "type": "module"
 }
